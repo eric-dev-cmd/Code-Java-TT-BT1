@@ -4,3 +4,4 @@
 4. Duong Cat Luynh fixes
 7. avc
 8. edit update image close
+9. add image
